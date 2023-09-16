@@ -1,0 +1,42 @@
+
+* {
+    text-align: right;
+    font-family: poppins, roboto, Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1638613067237-b1127ef06c00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80);
+    background-size: center;
+}
+
+h2, p {
+    color: red;
+    text-align: center;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+p {
+    color: pink
+}
+
+p {
+    color: black
+}
+
+img {
+    float: left;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webcontent:hover {
+    font-weight: bold;
+}
+
+#div1 {
+    background-color: white;
+}

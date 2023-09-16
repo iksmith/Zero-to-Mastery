@@ -1,0 +1,24 @@
+* {
+    text-align: right;
+    font-family: poppins, roboto, Arial, Helvetica, sans-serif;
+}
+
+body {
+  
+}
+
+h2 {
+    color: blue;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.boxmodel {
+    border: 5px solid red;
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+    margin: 20px 30px;
+}
